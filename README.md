@@ -20,3 +20,4 @@ A simple and secure Streamlit application to predict health risks based on patie
 1. Clone the repo:
 ```bash
 git clone https://github.com/pujitha-0601/Healthcare-prediction-application.git
+LIVE LINK: https://healthcare-prediction-application-i3v9ihezsqd9i9ux9ongzd.streamlit.app/
